@@ -1,0 +1,10 @@
+/bin/
+/.settings/
+.classpath
+.project
+*.class
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
